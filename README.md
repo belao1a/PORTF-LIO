@@ -2,7 +2,7 @@
 empresario
 # Adega da Tabacaria
 
-Bem-vindo à nossa Adega da Tabacaria! Aqui você encontra uma variedade de produtos de qualidade, ideais para quem aprecia tabacos e acessórios.
+Bem-vindo a BL à nossa Adega Tabacaria! Aqui você encontra uma variedade de produtos de qualidade, ideais para quem aprecia tabacos e acessórios.
 
 ## Sobre Nós
 
@@ -13,15 +13,14 @@ Somos uma empresa dedicada a oferecer os melhores produtos para os amantes de ta
 - Tabacos de alta qualidade
 - Acessórios para fumadores
 - Produtos exclusivos
+- Bebidas 
 
 ## Contato
 
 Você pode nos encontrar nas redes sociais:
 
-- **Instagram:** [@suaadega](https://www.instagram.com/suaadega)
-- **Facebook:** [Adega da Tabacaria](https://www.facebook.com/suaadega)
-- **WhatsApp:** [Clique aqui para falar conosco!](https://wa.me/seunumerodetelefone)
-
+- **Instagram:** [@043_vieira](ttps://www.instagram.com/043_vieira/)
+- **WhatsApp:** [Clique aqui para falar conosco!](https://wa.me/qr/MDQVUZQPY7P2O1)
 ## Como Comprar
 
 Para fazer um pedido, entre em contato conosco através das redes sociais ou pelo WhatsApp. Estamos sempre prontos para ajudar!
