@@ -19,7 +19,7 @@ Somos uma empresa dedicada a oferecer os melhores produtos para os amantes de ta
 
 Você pode nos encontrar nas redes sociais:
 
-- **Instagram:** [@043_vieira](ttps://www.instagram.com/043_vieira/)
+- **Instagram:** [@043_vieira](https://www.instagram.com/043_vieira/)
 - **WhatsApp:** [Clique aqui para falar conosco!](https://wa.me/qr/MDQVUZQPY7P2O1)
 ## Como Comprar
 
